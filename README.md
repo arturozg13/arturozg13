@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hola a todos, soy Arturo Zarazúa Guillén👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+QA Engineer bilingüe con experiencia en el sector empresarial, especializado en flujos de trabajo ágiles y herramientas modernas de control de calidad como JIRA, Postman, Charles, API y SQL. Apasionado por la precisión y con un enfoque meticuloso para identificar y resolver errores, garantizando productos de alta calidad. Historial comprobado en proyectos de renovación y expansión para clientes importantes como Google. Motivado por la mejora continua y la entrega de soluciones que superan las expectativas del usuario final.
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,discord,bots,gcp,git,github,gmail,html,instagram,js,mysql,notion,ps,postman,pycharm,selenium,)](https://skillicons.dev)
 
 <!--
 **arturozg13/arturozg13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
